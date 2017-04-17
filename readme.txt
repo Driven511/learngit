@@ -4,3 +4,4 @@ Git has a mutable index called stage
 Creating a new branch is quick
 add merge
 now a bug come in
+change is fast
